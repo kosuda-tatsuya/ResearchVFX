@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3736483904
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71725350387dc19c0c57dfcf4db9a865
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c3838ceef48b662358758ddb9b7b489
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9cf876f66ca1e1d4c980d80ce717a6e1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/App/Prefabs/Particle System/Heart_Loop.prefab
+Dependencies: []

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1829586532
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: fire_loop
+      Dependencies: {}
+    Info_1:
+      Name: star_loop
+      Dependencies: {}
+    Info_2:
+      Name: spark_loop
+      Dependencies: {}
+    Info_3:
+      Name: smoke_loop
+      Dependencies: {}
+    Info_4:
+      Name: laser_loop
+      Dependencies: {}
+    Info_5:
+      Name: heart_loop
+      Dependencies: {}
